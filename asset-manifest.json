@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/memo_app/static/css/main.1cc68dbf.chunk.css",
+    "main.js": "/memo_app/static/js/main.cf696d98.chunk.js",
+    "main.js.map": "/memo_app/static/js/main.cf696d98.chunk.js.map",
+    "runtime-main.js": "/memo_app/static/js/runtime-main.a8dd5e57.js",
+    "runtime-main.js.map": "/memo_app/static/js/runtime-main.a8dd5e57.js.map",
+    "static/css/2.0440f8c5.chunk.css": "/memo_app/static/css/2.0440f8c5.chunk.css",
+    "static/js/2.46681991.chunk.js": "/memo_app/static/js/2.46681991.chunk.js",
+    "static/js/2.46681991.chunk.js.map": "/memo_app/static/js/2.46681991.chunk.js.map",
+    "index.html": "/memo_app/index.html",
+    "static/css/2.0440f8c5.chunk.css.map": "/memo_app/static/css/2.0440f8c5.chunk.css.map",
+    "static/css/main.1cc68dbf.chunk.css.map": "/memo_app/static/css/main.1cc68dbf.chunk.css.map",
+    "static/js/2.46681991.chunk.js.LICENSE.txt": "/memo_app/static/js/2.46681991.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8dd5e57.js",
+    "static/css/2.0440f8c5.chunk.css",
+    "static/js/2.46681991.chunk.js",
+    "static/css/main.1cc68dbf.chunk.css",
+    "static/js/main.cf696d98.chunk.js"
+  ]
+}
